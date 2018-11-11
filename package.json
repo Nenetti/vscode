@@ -1,0 +1,15 @@
+{
+	"name": "darkest-dark",
+	"version": "0.0.0",
+	"publisher": "Nenetti",
+	"engines": { "vscode": "*" },
+	"contributes": {
+		"themes": [
+			{
+				"label": "Darkest-Dark",
+				"uiTheme": "vs-dark",
+				"path": "./theme.json"
+			}
+		]
+	}
+}
