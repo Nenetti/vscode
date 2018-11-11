@@ -339,7 +339,7 @@
 			"scope": "storage",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#dd2a2a"
+				"foreground": "#ff3b3b"
 			}
 		},
 		{
@@ -366,7 +366,7 @@
 			"scope": "entity.name.class, entity.name.type",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#dd2a2a",
+				"foreground": "#ff3b3b",//dd2a2a
 			}
 		},
 
